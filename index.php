@@ -11,23 +11,23 @@
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="index.html">HEALTH TIMES</a>
+      <a class="navbar-brand" href="index.php">HEALTH TIMES</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="app.html">MAKE AN APPOINTMENT</a>
+            <a class="nav-link active" aria-current="page" href="app.php">MAKE AN APPOINTMENT</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="dr.html">DR.LOGIN</a>
+            <a class="nav-link" href="dr.php">DR.LOGIN</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="medicine.html">MEDICINE SEARCH</a>
+            <a class="nav-link" href="medicine.php">MEDICINE SEARCH</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="feedback.html">FEEDBACK</a>
+            <a class="nav-link" href="feedback.php">FEEDBACK</a>
           </li>
         </ul>
       </div>
